@@ -1,0 +1,145 @@
+2025-09-05 10:02:39 INFO  ConfigReader:31 - Configuration properties loaded successfully
+2025-09-05 10:02:51 INFO  BikesPageSteps:45 - Click the search bar
+2025-09-05 10:02:58 INFO  BikesPageSteps:55 - Down arrow key pressed
+2025-09-05 10:02:58 INFO  BikesPageSteps:61 - Enter key clicked
+2025-09-05 10:03:00 INFO  BikesPageSteps:67 - Validating bike brand: Honda
+2025-09-05 10:03:00 INFO  BikesPageSteps:70 - Validating bike card details
+2025-09-05 10:03:06 INFO  GoogleLoginSteps:45 - User is on the homepage
+2025-09-05 10:03:06 INFO  GoogleLoginSteps:52 - Clicking login button
+2025-09-05 10:03:08 INFO  GoogleLoginSteps:65 - Facebook Text: Facebook
+2025-09-05 10:03:08 INFO  GoogleLoginSteps:66 - Apple Text: Apple
+2025-09-05 10:03:08 INFO  GoogleLoginSteps:67 - Google Text: Google
+2025-09-05 10:03:08 INFO  GoogleLoginSteps:79 - Clicking Google login option
+2025-09-05 10:03:09 INFO  GoogleLoginSteps:87 - Switching to Google login window
+2025-09-05 10:03:09 INFO  GoogleLoginSteps:95 - Entering email: praveen@gmail.com
+2025-09-05 10:03:13 INFO  GoogleLoginSteps:104 - Email error message received: Sign in
+2025-09-05 10:03:14 INFO  UsedCarsSteps:31 - User is already on the application
+2025-09-05 10:03:14 INFO  BikesPageSteps:45 - Click the search bar
+2025-09-05 10:03:23 INFO  BikesPageSteps:55 - Down arrow key pressed
+2025-09-05 10:03:23 INFO  BikesPageSteps:61 - Enter key clicked
+2025-09-05 10:03:23 INFO  UsedCarsSteps:36 - Search result is displayed
+2025-09-05 10:03:25 INFO  UsedCarsSteps:43 - No used cars in Chennai
+2025-09-05 10:03:25 INFO  UsedCarsSteps:48 - No cars found is displayed on the console
+2025-09-05 10:03:25 INFO  UsedCarsSteps:53 - All cars used in Chennai are displayed
+2025-09-05 10:03:25 INFO  UsedCarsSteps:58 - Filtering all popular models: 
+2025-09-05 10:03:25 INFO  UsedCarsSteps:64 - Filtered results are displayed
+2025-09-05 10:03:25 INFO  UsedCarsSteps:70 - No popular model cars used in Chennai
+2025-09-05 10:03:25 INFO  UsedCarsSteps:75 - Nothing is displayed on the console
+2025-09-05 10:03:25 INFO  UsedCarsSteps:80 - All popular car models are displayed
+2025-09-05 10:03:25 INFO  UsedCarsSteps:85 - Names of all popular car models are displayed on the console
+2025-09-05 12:19:26 INFO  ConfigReader:31 - Configuration properties loaded successfully
+2025-09-05 12:19:32 INFO  BikesPageSteps:45 - Click the search bar
+2025-09-05 12:19:38 INFO  BikesPageSteps:55 - Down arrow key pressed
+2025-09-05 12:19:38 INFO  BikesPageSteps:61 - Enter key clicked
+2025-09-05 12:19:39 INFO  BikesPageSteps:67 - Validating bike brand: Honda
+2025-09-05 12:19:39 INFO  BikesPageSteps:70 - Validating bike card details
+2025-09-05 12:19:41 INFO  GoogleLoginSteps:45 - User is on the homepage
+2025-09-05 12:19:41 INFO  GoogleLoginSteps:52 - Clicking login button
+2025-09-05 12:19:42 INFO  GoogleLoginSteps:65 - Facebook Text: Facebook
+2025-09-05 12:19:42 INFO  GoogleLoginSteps:66 - Apple Text: Apple
+2025-09-05 12:19:42 INFO  GoogleLoginSteps:67 - Google Text: Google
+2025-09-05 12:19:42 INFO  GoogleLoginSteps:79 - Clicking Google login option
+2025-09-05 12:19:42 INFO  GoogleLoginSteps:87 - Switching to Google login window
+2025-09-05 12:19:42 INFO  GoogleLoginSteps:95 - Entering email: praveen@gmail.com
+2025-09-05 12:19:46 INFO  GoogleLoginSteps:104 - Email error message received: Sign in
+2025-09-05 12:19:46 INFO  UsedCarsSteps:31 - User is already on the application
+2025-09-05 12:19:46 INFO  BikesPageSteps:45 - Click the search bar
+2025-09-05 12:19:54 INFO  BikesPageSteps:55 - Down arrow key pressed
+2025-09-05 12:19:54 INFO  BikesPageSteps:61 - Enter key clicked
+2025-09-05 12:19:54 INFO  UsedCarsSteps:36 - Search result is displayed
+2025-09-05 12:19:55 INFO  UsedCarsSteps:43 - No used cars in Chennai
+2025-09-05 12:19:55 INFO  UsedCarsSteps:48 - No cars found is displayed on the console
+2025-09-05 12:19:55 INFO  UsedCarsSteps:53 - All cars used in Chennai are displayed
+2025-09-05 12:19:55 INFO  UsedCarsSteps:58 - Filtering all popular models: 
+2025-09-05 12:19:55 INFO  UsedCarsSteps:64 - Filtered results are displayed
+2025-09-05 12:19:55 INFO  UsedCarsSteps:70 - No popular model cars used in Chennai
+2025-09-05 12:19:55 INFO  UsedCarsSteps:75 - Nothing is displayed on the console
+2025-09-05 12:19:55 INFO  UsedCarsSteps:80 - All popular car models are displayed
+2025-09-05 12:19:55 INFO  UsedCarsSteps:85 - Names of all popular car models are displayed on the console
+2025-09-05 13:38:23 INFO  ConfigReader:31 - Configuration properties loaded successfully
+2025-09-05 13:38:35 INFO  BikesPageSteps:45 - Click the search bar
+2025-09-05 13:38:47 INFO  BikesPageSteps:55 - Down arrow key pressed
+2025-09-05 13:38:47 INFO  BikesPageSteps:61 - Enter key clicked
+2025-09-05 13:38:49 INFO  BikesPageSteps:67 - Validating bike brand: Honda
+2025-09-05 13:38:49 INFO  BikesPageSteps:70 - Validating bike card details
+2025-09-05 13:38:58 INFO  GoogleLoginSteps:45 - User is on the homepage
+2025-09-05 13:38:58 INFO  GoogleLoginSteps:52 - Clicking login button
+2025-09-05 13:39:02 INFO  GoogleLoginSteps:65 - Facebook Text: 
+2025-09-05 13:39:02 INFO  GoogleLoginSteps:66 - Apple Text: 
+2025-09-05 13:39:02 INFO  GoogleLoginSteps:67 - Google Text: 
+2025-09-05 13:39:02 INFO  GoogleLoginSteps:79 - Clicking Google login option
+2025-09-05 13:39:03 INFO  GoogleLoginSteps:87 - Switching to Google login window
+2025-09-05 13:39:03 INFO  GoogleLoginSteps:95 - Entering email: praveen@gmail.com
+2025-09-05 13:39:08 INFO  GoogleLoginSteps:104 - Email error message received: Sign in
+2025-09-05 13:39:10 INFO  UsedCarsSteps:31 - User is already on the application
+2025-09-05 13:39:10 INFO  BikesPageSteps:45 - Click the search bar
+2025-09-05 13:39:26 INFO  BikesPageSteps:55 - Down arrow key pressed
+2025-09-05 13:39:26 INFO  BikesPageSteps:61 - Enter key clicked
+2025-09-05 13:39:26 INFO  UsedCarsSteps:36 - Search result is displayed
+2025-09-05 13:39:28 INFO  UsedCarsSteps:43 - No used cars in Chennai
+2025-09-05 13:39:28 INFO  UsedCarsSteps:48 - No cars found is displayed on the console
+2025-09-05 13:39:28 INFO  UsedCarsSteps:53 - All cars used in Chennai are displayed
+2025-09-05 13:39:28 INFO  UsedCarsSteps:58 - Filtering all popular models: 
+2025-09-05 13:39:28 INFO  UsedCarsSteps:64 - Filtered results are displayed
+2025-09-05 13:39:28 INFO  UsedCarsSteps:70 - No popular model cars used in Chennai
+2025-09-05 13:39:28 INFO  UsedCarsSteps:75 - Nothing is displayed on the console
+2025-09-05 13:39:28 INFO  UsedCarsSteps:80 - All popular car models are displayed
+2025-09-05 13:39:28 INFO  UsedCarsSteps:85 - Names of all popular car models are displayed on the console
+2025-09-05 13:40:14 INFO  ConfigReader:31 - Configuration properties loaded successfully
+2025-09-05 13:40:24 INFO  BikesPageSteps:45 - Click the search bar
+2025-09-05 13:40:31 INFO  BikesPageSteps:55 - Down arrow key pressed
+2025-09-05 13:40:31 INFO  BikesPageSteps:61 - Enter key clicked
+2025-09-05 13:40:32 INFO  BikesPageSteps:67 - Validating bike brand: Honda
+2025-09-05 13:40:32 INFO  BikesPageSteps:70 - Validating bike card details
+2025-09-05 13:40:39 INFO  GoogleLoginSteps:45 - User is on the homepage
+2025-09-05 13:40:39 INFO  GoogleLoginSteps:52 - Clicking login button
+2025-09-05 13:40:41 INFO  GoogleLoginSteps:65 - Facebook Text: Facebook
+2025-09-05 13:40:41 INFO  GoogleLoginSteps:66 - Apple Text: Apple
+2025-09-05 13:40:41 INFO  GoogleLoginSteps:67 - Google Text: Google
+2025-09-05 13:40:41 INFO  GoogleLoginSteps:79 - Clicking Google login option
+2025-09-05 13:40:41 INFO  GoogleLoginSteps:87 - Switching to Google login window
+2025-09-05 13:40:41 INFO  GoogleLoginSteps:95 - Entering email: praveen@gmail.com
+2025-09-05 13:40:45 INFO  GoogleLoginSteps:104 - Email error message received: Sign in
+2025-09-05 13:40:46 INFO  UsedCarsSteps:31 - User is already on the application
+2025-09-05 13:40:46 INFO  BikesPageSteps:45 - Click the search bar
+2025-09-05 13:40:56 INFO  BikesPageSteps:55 - Down arrow key pressed
+2025-09-05 13:40:56 INFO  BikesPageSteps:61 - Enter key clicked
+2025-09-05 13:40:56 INFO  UsedCarsSteps:36 - Search result is displayed
+2025-09-05 13:40:58 INFO  UsedCarsSteps:43 - No used cars in Chennai
+2025-09-05 13:40:58 INFO  UsedCarsSteps:48 - No cars found is displayed on the console
+2025-09-05 13:40:58 INFO  UsedCarsSteps:53 - All cars used in Chennai are displayed
+2025-09-05 13:40:58 INFO  UsedCarsSteps:58 - Filtering all popular models: 
+2025-09-05 13:40:58 INFO  UsedCarsSteps:64 - Filtered results are displayed
+2025-09-05 13:40:58 INFO  UsedCarsSteps:70 - No popular model cars used in Chennai
+2025-09-05 13:40:58 INFO  UsedCarsSteps:75 - Nothing is displayed on the console
+2025-09-05 13:40:58 INFO  UsedCarsSteps:80 - All popular car models are displayed
+2025-09-05 13:40:58 INFO  UsedCarsSteps:85 - Names of all popular car models are displayed on the console
+2025-09-05 15:31:49 INFO  ConfigReader:31 - Configuration properties loaded successfully
+2025-09-05 15:32:00 INFO  BikesPageSteps:45 - Click the search bar
+2025-09-05 15:32:08 INFO  BikesPageSteps:55 - Down arrow key pressed
+2025-09-05 15:32:09 INFO  BikesPageSteps:61 - Enter key clicked
+2025-09-05 15:32:11 INFO  BikesPageSteps:67 - Validating bike brand: Honda
+2025-09-05 15:32:11 INFO  BikesPageSteps:70 - Validating bike card details
+2025-09-05 15:32:17 INFO  GoogleLoginSteps:45 - User is on the homepage
+2025-09-05 15:32:17 INFO  GoogleLoginSteps:52 - Clicking login button
+2025-09-05 15:32:20 INFO  GoogleLoginSteps:65 - Facebook Text: Facebook
+2025-09-05 15:32:20 INFO  GoogleLoginSteps:66 - Apple Text: Apple
+2025-09-05 15:32:20 INFO  GoogleLoginSteps:67 - Google Text: Google
+2025-09-05 15:32:20 INFO  GoogleLoginSteps:79 - Clicking Google login option
+2025-09-05 15:32:21 INFO  GoogleLoginSteps:87 - Switching to Google login window
+2025-09-05 15:32:21 INFO  GoogleLoginSteps:95 - Entering email: praveen@gmail.com
+2025-09-05 15:32:26 INFO  GoogleLoginSteps:104 - Email error message received: Sign in
+2025-09-05 15:32:27 INFO  UsedCarsSteps:31 - User is already on the application
+2025-09-05 15:32:27 INFO  BikesPageSteps:45 - Click the search bar
+2025-09-05 15:32:36 INFO  BikesPageSteps:55 - Down arrow key pressed
+2025-09-05 15:32:36 INFO  BikesPageSteps:61 - Enter key clicked
+2025-09-05 15:32:36 INFO  UsedCarsSteps:36 - Search result is displayed
+2025-09-05 15:32:38 INFO  UsedCarsSteps:43 - No used cars in Chennai
+2025-09-05 15:32:38 INFO  UsedCarsSteps:48 - No cars found is displayed on the console
+2025-09-05 15:32:38 INFO  UsedCarsSteps:53 - All cars used in Chennai are displayed
+2025-09-05 15:32:38 INFO  UsedCarsSteps:58 - Filtering all popular models: 
+2025-09-05 15:32:38 INFO  UsedCarsSteps:64 - Filtered results are displayed
+2025-09-05 15:32:38 INFO  UsedCarsSteps:70 - No popular model cars used in Chennai
+2025-09-05 15:32:38 INFO  UsedCarsSteps:75 - Nothing is displayed on the console
+2025-09-05 15:32:38 INFO  UsedCarsSteps:80 - All popular car models are displayed
+2025-09-05 15:32:38 INFO  UsedCarsSteps:85 - Names of all popular car models are displayed on the console
